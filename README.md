@@ -26,6 +26,8 @@ Bu, Flutter ile geliştirilmiş basit bir QR kodu oluşturucu mini uygulamasıd�
 ## Ekran Görüntüleri
 
 ![Örnek Ekran Görüntüsü](assets/screen1.png)
+![Örnek Ekran Görüntüsü](assets/screen2.png)
+![Örnek Ekran Görüntüsü](assets/appVideo.mp4)
 
 ## Özellikler
 
