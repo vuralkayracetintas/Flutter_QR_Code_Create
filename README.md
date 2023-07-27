@@ -3,8 +3,16 @@ QRCODE
 This is a simple QR code generator developed with Flutter.
 
 Screenshots
-![Screenshot](assets/screen1.png)
-![Screenshot](assets/screen2.png)
+<table>
+  <tr>
+    <td>
+      <img src="assets/screen1.png" alt="Örnek Ekran Görüntüsü 1" width="200" height="150">
+    </td>
+    <td>
+      <img src="assets/screen2.png" alt="Örnek Ekran Görüntüsü 2" width="200" height="150">
+    </td>
+  </tr>
+</table>
 
 - [App Video](https://www.youtube.com/shorts/sfpKA2_3SYg)
 
@@ -20,8 +28,16 @@ Bu, Flutter ile geliştirilmiş basit bir QR kodu oluşturucudur.
 
 ## Ekran Görüntüleri
 
-![Örnek Ekran Görüntüsü](assets/screen1.png)
-![Örnek Ekran Görüntüsü](assets/screen2.png)
+<table>
+  <tr>
+    <td>
+      <img src="assets/screen1.png" alt="Örnek Ekran Görüntüsü 1" width="200" height="150">
+    </td>
+    <td>
+      <img src="assets/screen2.png" alt="Örnek Ekran Görüntüsü 2" width="200" height="150">
+    </td>
+  </tr>
+</table>
 
 - [Uygulama Goruntusu](https://www.youtube.com/shorts/sfpKA2_3SYg)
 
