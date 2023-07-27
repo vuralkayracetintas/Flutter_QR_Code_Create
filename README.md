@@ -6,10 +6,10 @@ Screenshots
 <table>
   <tr>
     <td>
-      <img src="assets/screen1.png" alt="Örnek Ekran Görüntüsü 1" width="300 " height="400">
+      <img src="assets/screen1.png" alt="Örnek Ekran Görüntüsü 1" width="450 " height="600">
     </td>
     <td>
-      <img src="assets/screen2.png" alt="Örnek Ekran Görüntüsü 2" width="300" height="400">
+      <img src="assets/screen2.png" alt="Örnek Ekran Görüntüsü 2" width="450" height="600">
     </td>
   </tr>
 </table>
