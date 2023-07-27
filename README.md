@@ -6,10 +6,10 @@ Screenshots
 <table>
   <tr>
     <td>
-      <img src="assets/screen1.png" alt="Örnek Ekran Görüntüsü 1" width="200" height="150">
+      <img src="assets/screen1.png" alt="Örnek Ekran Görüntüsü 1" width="300 " height="400">
     </td>
     <td>
-      <img src="assets/screen2.png" alt="Örnek Ekran Görüntüsü 2" width="200" height="150">
+      <img src="assets/screen2.png" alt="Örnek Ekran Görüntüsü 2" width="300" height="400">
     </td>
   </tr>
 </table>
@@ -31,10 +31,10 @@ Bu, Flutter ile geliştirilmiş basit bir QR kodu oluşturucudur.
 <table>
   <tr>
     <td>
-      <img src="assets/screen1.png" alt="Örnek Ekran Görüntüsü 1" width="200" height="150">
+      <img src="assets/screen1.png" alt="Örnek Ekran Görüntüsü 1" width="300" height="400">
     </td>
     <td>
-      <img src="assets/screen2.png" alt="Örnek Ekran Görüntüsü 2" width="200" height="150">
+      <img src="assets/screen2.png" alt="Örnek Ekran Görüntüsü 2" width="300" height="400">
     </td>
   </tr>
 </table>
