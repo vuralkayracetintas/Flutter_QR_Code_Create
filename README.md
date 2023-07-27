@@ -1,43 +1,34 @@
-# qrcode
+QRCODE 
 
-A new Flutter project.
+This is a simple QR code generator developed with Flutter.
 
-## Getting Started
+Screenshots
+![Örnek Ekran Görüntüsü](assets/screen1.png)
+![Örnek Ekran Görüntüsü](assets/screen2.png)
 
-This project is a starting point for a Flutter application.
+- [App Video](https://www.youtube.com/shorts/sfpKA2_3SYg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter-QrCode
+## Features
+Conversion of text or URLs to QR codes
+Simple and user-friendly interface
 
 
 
 
-
-
-Bu, Flutter ile geliştirilmiş basit bir QR kodu oluşturucu mini uygulamasıdır. Bu uygulama sayesinde metin veya bağlantıları QR kodlarına dönüştürebilir ve bunları paylaşabilirsiniz.
+Bu, Flutter ile geliştirilmiş basit bir QR kodu oluşturucudur.
 
 ## Ekran Görüntüleri
 
 ![Örnek Ekran Görüntüsü](assets/screen1.png)
 ![Örnek Ekran Görüntüsü](assets/screen2.png)
-![Örnek Ekran Görüntüsü](assets/appVideo.mp4)
+
+- [Uygulama Goruntusu](https://www.youtube.com/shorts/sfpKA2_3SYg)
+
 
 ## Özellikler
 
 - Metin veya bağlantıları QR kodlarına dönüştürme
-- QR kodlarını paylaşma seçeneği
 - Basit ve kullanıcı dostu arayüz
 
-## Kurulum
-
-1. Bu depoyu klonlayın veya ZIP olarak indirin.
-
-2. Proje dizinine gidin:
 
