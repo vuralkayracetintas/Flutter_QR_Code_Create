@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-# QR Kodu Oluşturucu
+
 
 Bu, Flutter ile geliştirilmiş basit bir QR kodu oluşturucu mini uygulamasıdır. Bu uygulama sayesinde metin veya bağlantıları QR kodlarına dönüştürebilir ve bunları paylaşabilirsiniz.
 
