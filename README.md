@@ -3,8 +3,8 @@ QRCODE
 This is a simple QR code generator developed with Flutter.
 
 Screenshots
-![Örnek Ekran Görüntüsü](assets/screen1.png)
-![Örnek Ekran Görüntüsü](assets/screen2.png)
+![Screenshot](assets/screen1.png)
+![Screenshot](assets/screen2.png)
 
 - [App Video](https://www.youtube.com/shorts/sfpKA2_3SYg)
 
